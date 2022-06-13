@@ -15,7 +15,7 @@ I’m beginning my 100 days of Data Analyst career path as of this blog post, bu
 2. Make a daily Twitter post 🚩.
 3. Create blogs 📖 about the journey on a regular basis.
 4. Complete at least 25 projects.
-5.Form a group of people who are also interested in completing the challenge so that we may start and finish together.
+5. Form a group of people who are also interested in completing the challenge so that we may start and finish together.
 
 
 #### Noteworthy Credits 🙏
