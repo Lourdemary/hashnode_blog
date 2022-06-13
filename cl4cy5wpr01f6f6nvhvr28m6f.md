@@ -5,8 +5,10 @@ I originally learnt about the 100DaysofCode challenge from social media platform
 As a result, I’ve chosen to finish the year by participating in this challenge.
 Check out [Alexander Kallaway’s](https://www.100daysofcode.com/) blog article for additional details on the challenge.
 
+#### The beginning note
 This challenge 📝, I feel, will be a terrific way to get me started on my 2022 data analyst path and keep me on track 🎯. I also feel that there is a solid reason to commit to doing something every day for a length of time in order to get successful at it. It takes roughly [21 days](https://capespace.com/how-the-21-90-rule-helps-you-build-good-habits-and-a-better-life/#:~:text=The%20rule%20is%20simple%20enough,it%20for%20another%20ninety%20days.) to create a ⚠️ habit, according to study, and healthy habits are an important component of becoming an Entry Level Data Analyst .
 
+#### Responsibilities
 I’m beginning my 100 days of Data Analyst career path as of this blog post, but I aim to hold myself responsible in numerous ways 🎯:
 
 1. Keep a 📝daily journal of my progress, ideas, and questions.
