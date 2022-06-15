@@ -14,7 +14,7 @@ A List_range and a Criteria_range must be specified in order to conduct an advan
 
 > Shortcut : ALT + A + Q
 
-#### Extracting a Unique list
+### Extracting a Unique list
 The steps of extracting a unique list are as follows:
 
 1. Select the entire source data (data set).
@@ -32,7 +32,7 @@ The steps of extracting a unique list are as follows:
   - Ok
 ![Screenshot (123).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655310018641/9wOrk7qyu.png align="left")
 
-#### Using Criteria
+### Using Criteria
 Excel Advanced Filter may be used to filter records based on a set of criteria.
 
 1.  Specify the criteria for which you want to filter the data.
@@ -105,17 +105,17 @@ When creating criteria in Excel Advanced Filter, you may also use wildcard chara
 5. Ok
 ![Screenshot (135).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1655314602749/ZmFuH0un-.png align="left")
 
-#### NOTE :
+### NOTE :
 1. Remember, the headers in the criteria should be exactly the same as that in the data set.
 2. Advanced filtering cannot be undone when copied to other locations.
 3. The criteria range can be on the same sheet as the data, or on a different sheet.
 
 > When copying the filtered date from sheet 1 to sheet 2, keep the sheet 2 active. 
 
-#### Acknowledgement 
+### Acknowledgement 
 This blog simply represents my own ideas and opinions (based on my limited knowledge) and should not be used as a replacement for legitimate sources. I'd welcome corrections in the comments if I ever make a mistake or if you disagree!
 
-#### End note 
+### End note 
 These were the things that I was able to explore today, and I am looking forward to learn more. If you have any further information on the aforementioned concepts, please share it in the comments section below. Don't forget to connect me on [Twitter](https://twitter.com/datanomadd) and [Github](https://github.com/Lourdemary/100_Days_Of_Data).
 
 Have a great time !
