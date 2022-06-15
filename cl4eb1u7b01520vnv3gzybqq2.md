@@ -72,7 +72,7 @@ The contents of the cells in the filtered column may be checked using this drop-
 
 > You may also filter by colour in current Excel versions. This might be the colour of the text or the backdrop of a cell.
 
-More complicated filtering may be done with the Excel Advanced Filter than with the Excel Autofilter.
+More complicated filtering may be done with the [Advanced Excel Filter](https://lourdemary.hashnode.dev/advanced-excel-filter-uniquecriteriawildcards) than with the Excel Autofilter.
 
 
 
